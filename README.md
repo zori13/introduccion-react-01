@@ -15,13 +15,13 @@ Siga estos pasos para ejecutar el proyecto:
 1. Una vez hecho el fork del repositorio original, clona el repositorio a tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/introduccion-react.git
+   git clone https://github.com/tu-usuario/introduccion-react-01.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd introduccion-react
+   cd introduccion-react-01
    ```
 
 3. Instala las dependencias del proyecto:
