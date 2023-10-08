@@ -4,7 +4,7 @@ Este repositorio contiene ejemplos de código y enunciados detallados para vario
 
 Para empezar, hemos proporcionado un ejemplo inicial del **Ejercicio 1** como punto de partida.
 
-Este proyecto ha sido configurado el proyecto utilizando Vite, un entorno de desarrollo rápido para aplicaciones web con React.
+Este proyecto ha sido configurado utilizando Vite, un entorno de desarrollo rápido para aplicaciones web con React.
 
 - Documentación Vite: https://vitejs.dev/guide/
 
