@@ -141,4 +141,4 @@ Crea un contador simple que aumente su valor cada vez que se presiona un botón.
 4. Agrega un botón que, cuando se presiona, incremente el valor del contador en 1.
 5. Utiliza este componente en tu aplicación principal.
 
-¡Diviértete practicando React con estos ejercicios! Si tienes alguna pregunta o necesitas ayuda, no dudes en consultar la documentación de [React]("https://react.dev/learn) o buscar ayuda en línea. ¡Happy coding!
+¡Diviértete practicando React con estos ejercicios! Si tienes alguna pregunta o necesitas ayuda, no dudes en consultar la documentación de [React](https://react.dev/learn) o buscar ayuda en línea. ¡Happy coding!
